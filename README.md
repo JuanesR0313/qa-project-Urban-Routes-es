@@ -17,7 +17,7 @@ JavaScript Click Handling: Para asegurar que los elementos sean correctamente ac
 Entornos Virtuales: Para un manejo limpio de las dependencias.
 
 #Estructura del proyecto
-main.py: Contiene el código principal de las pruebas automatizadas.
+main.py: Contiene el código principal de las pruebas automatizadas
 data.py: Contiene las configuraciones y datos utilizados durante las pruebas (URL, número de teléfono, etc.).
 
 #Ejecutar las pruebas
