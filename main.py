@@ -73,7 +73,7 @@ class UrbanRoutesPage:
     # 5 Mensaje para el conductor
     message_field = (By.XPATH, "//div[@class='input-container']//input[@id='comment']")
 
-    def _init_(self, driver):
+    def __init__(self, driver):
         self.driver = driver
         self.driver.implicitly_wait(10)  # Espera global para evitar errores de carga
 
